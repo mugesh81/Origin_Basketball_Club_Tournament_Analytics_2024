@@ -1,0 +1,137 @@
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+.directory
+
+# IDE & Editor Files
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+.vim/
+.netrwhist
+*~
+.jshintrc
+
+# Windows
+Thumbs.db
+*.log
+.env.local
+
+# macOS
+.AppleDouble
+.LSOverride
+.TemporaryItems
+.VolumeIcon.icns
+
+# Local development
+*.local.json
+config.local.*
+.env
+.env.local
+.env.*.local
+
+# IDE user settings
+.vscode/settings.json
+.vscode/launch.json
+.idea/workspace.xml
+.idea/vcs.xml
+
+# Backup files
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+*.tmp
+
+# Build outputs
+dist/
+build/
+*.o
+*.a
+*.so
+
+# Dependencies
+node_modules/
+vendor/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
+*.temp
+*.tmp
+
+# Database
+*.sql.bak
+*.sql.backup
+
+# Power BI
+.pbi_temp/
+*.pbix.backup
+*.pbit.backup
+
+# OS
+.gitkeep
+
+# Credentials & Secrets
+.env
+.env.local
+secrets.json
+*.key
+*.pem
+credentials.*
+password.*
+config.secret.*
+
+# Local MySQL
+*.ibd
+*.myi
+*.MYI
+ib_logfile*
+*.err
+
+# Testing
+.coverage
+*.pyc
+__pycache__/
+htmlcov/
+
+# Package managers
+package-lock.json
+yarn.lock
+composer.lock
+
+# Documentation build files
+site/
+docs/_build/
+
+# IDE specific
+.vs/
+.vscode-test/
+test-results/
+
+# Keep these tracked
+!.gitignore
+!.github/
+!.gitattributes
